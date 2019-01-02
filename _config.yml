@@ -54,8 +54,6 @@ education:
    school: Baku Engineering University
 
 #List of interesting Github repo/projects to include - optional
-- title: Otos
-  url: https://otos.az/
 github:
  - ayshansafarova/BakuBike
  - ayshansafarova/SimpleCalculator
