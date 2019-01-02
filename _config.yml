@@ -44,15 +44,17 @@ roles:
    end: December, 2018
    employer: Mammadoff Creative Agency
    description: 
+   
 
 #Education is required
 education:
  - level: Bachelor of Engineering
-   date: 2015
+   date: September, 2015
    subject: Computer Engineering
    school: Baku Engineering University
 
 #List of interesting Github repo/projects to include - optional
+ - https://otos.az/
 github:
  - ayshansafarova/BakuBike
  - ayshansafarova/SimpleCalculator
