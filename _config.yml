@@ -17,19 +17,19 @@ primarylinks:
 skills:
  - C#
  - .Net 
- - ASP.Net MVC Framework
+ - ASP.Net MVC
  - React
  - Javascript
  - Jquery
  - Webpack
  - Chart.js
- - Bootstrap Framework
+ - Bootstrap 
  - HTML
  - CSS
  - PL/SQL
  - PHP
  - Selenium Testing 
- - SignalR Framework
+ - SignalR
 
 #Work experience is required
 roles:
@@ -37,12 +37,12 @@ roles:
    start: April, 2018
    end: July, 2018
    employer: Crocusoft
-   description:
+   description: Project: https://edp.az/ 
  - title: Developer&Designer
    start: August, 2018
    end: December, 2018
    employer: Mammadoff Creative Agency
-   description: 
+   description: Project: https://otos.az/
    
 
 #Education is required
