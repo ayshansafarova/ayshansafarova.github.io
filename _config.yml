@@ -16,21 +16,20 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - C#
- - .Net
+ - .Net 
  - ASP.Net MVC Framework
- - PL/SQL
- - Selenium Testing 
- - SignalR Framework
+ - React
  - Javascript
  - Jquery
- - PHP
- - Java (Android development)
  - Webpack
  - Chart.js
- - C++ (OpenGL library)
  - Bootstrap Framework
  - HTML
  - CSS
+ - PL/SQL
+ - PHP
+ - Selenium Testing 
+ - SignalR Framework
 
 #Work experience is required
 roles:
@@ -56,10 +55,14 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - ayshansafarova/BakuBike
+ - ayshansafarova/webpack-template
+ - ayshansafarova/chart.js-task
+ - ayshansafarova/FirstReactJs
+ - ayshansafarova/FirstReactMobileApp
+ - ayshansafarova/mass-effect-3
  - ayshansafarova/SimpleCalculator
  - ayshansafarova/desktop-Apps
  - ayshansafarova/Snake
- - ayshansafarova/webpack-template
  - ayshansafarova/Ex-php
  - ayshansafarova/console_app
  - ayshansafarova/Hospital-
@@ -70,4 +73,3 @@ github:
  - ayshansafarova/BouncingBall
  - ayshansafarova/FragmentAndroid
  - ayshansafarova/InternalStorage
- - ayshansafarova/mass-effect-3
