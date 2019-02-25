@@ -54,6 +54,7 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - ayshansafarova/MeetingApp
  - ayshansafarova/BakuBike
  - ayshansafarova/webpack-template
  - ayshansafarova/chart.js-task
