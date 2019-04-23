@@ -15,9 +15,6 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - C#
- - .Net 
- - ASP.Net MVC
  - React
  - Firebase
  - Javascript
@@ -27,6 +24,9 @@ skills:
  - Bootstrap 
  - HTML
  - CSS
+ - C#
+ - .Net 
+ - ASP.Net MVC
  - PL/SQL
  - PHP
  - Selenium Testing 
@@ -53,8 +53,9 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - ayshansafarova/MeetingApp
+ - ayshansafarova/meetUp
  - ayshansafarova/BakuBike
+ - ayshansafarova/responsive-chat-page
  - ayshansafarova/webpack-template
  - ayshansafarova/chart.js-task
  - ayshansafarova/FirstReactJs
